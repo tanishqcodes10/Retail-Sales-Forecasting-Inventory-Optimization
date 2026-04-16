@@ -1,0 +1,9 @@
+Metric,Value
+Total Revenue (₹),"₹8,919,932,248"
+Total Units Sold,"3,363,901"
+Average Daily Revenue (₹),"₹8,146,057"
+Best Performing Category,Clothing
+Best Performing Store,Store_C
+Products Needing Reorder,50
+Best Forecast Model,Gradient Boosting
+Best Model R2,0.9702
