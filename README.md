@@ -361,10 +361,10 @@ After completing this project, you will understand:
 ***
  👤 Author
 
-Tanishq Jakate
 
+ Tanishq Jakate
 🔗 LinkedIn Profile-(www.linkedin.com/in/tanishq-jakate-93617a402)  
-💻 GitHub Profile- [tanishqcodes10]
+💻 GitHub Profile- [tanishqcodes10]()
 
 
 
